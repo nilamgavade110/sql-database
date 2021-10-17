@@ -1,0 +1,1 @@
+SELECT * FROM project12.patient21;
